@@ -175,7 +175,6 @@ section nav ul li
     	color:#403e3e;
     	font-family: cursive;
     	font-weight:bold;
-		width: 400px;
     	font-size:80px;
     	line-height:100px;
 		
@@ -186,7 +185,6 @@ section nav ul li
     	font-family: cursive;
     	font-weight:bold;
     	line-height:40px;
-		width: 200px;
     }
     .about-text p:nth-child(3),
     .about-text p:nth-child(4){
@@ -559,6 +557,7 @@ section nav ul li
     		width: 70%;
     		text-align: right;
 			font-family: cursive;
+			width: 300px;
 			
     	}
     	.services-text{
